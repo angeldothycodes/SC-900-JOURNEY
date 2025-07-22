@@ -7,4 +7,5 @@
 
 - For all cloud deployment types be it IaaS, PaaS, or SaaS, YOU- the cloud customer own your data and identities. And YOU are responsible for protecting the security of your data and identities and on-premises resources.
 
-**In summary**, responsibilities always retain by customers and organizations
+**In summary**, responsibilities always retain by the customers' organization. 
+The **benefits** of shared responsibility model is that organization are clear about their responsibility and those of the cloud provider.
