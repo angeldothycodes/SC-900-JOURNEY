@@ -33,6 +33,20 @@ Here are the six privacy principles Microsoft follows:
 <img width="858" height="397" alt="image" src="https://github.com/user-attachments/assets/20be75e5-8c4f-4dfd-a7c8-319d426eea2b" />
 
 
+
 You can access the **Service Trust Portal** by going to **servicetrust.microsoft.com**
 
 
+**Compliance Manager** measures your progress in completing actions that help reduce risk around data protection and regulatory standards
+
+
+Under **Trust Documents**, this is where you can find links to a security implementation and design information
+
+**Industry Solutions** and **Regional Solutions** contain compliance information about Microsoft CLoud Services organized by industry and region. 
+The **industry solutions** link currently displays the home page for financial services.
+The **regional solutions** link currently have information for Australia, Canada, etc.
+
+
+
+**What you can gain out of Azure Compliance Documentation?** If your prganization need to comply with legal or regulatory standards and use any Azure services like Microsoft SaaS applications including Microsoft 365 dynamic or the Power platform, you will find the Azure compliance documentation helpful.
+<img width="896" height="480" alt="image" src="https://github.com/user-attachments/assets/3be932bf-e960-436d-aa90-d7f9a2fa6752" />
