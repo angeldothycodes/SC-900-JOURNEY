@@ -1,1 +1,3 @@
-Enterprise esecurity needs to adapt to its new reality. The Security perimeter can no longer be viewed as the on-premises network.
+Enterprise esecurity needs to adapt to its new reality. The Security perimeter can no longer be viewed as the on-premises network. It now extend to SaaS applications for business critical workload that may be hosted outside the corporate network or the personal devices that employees are using to access corporate resources which include **BYOD(Bring Your Own Device)** while working from home. The other concern is the unmanaged devices used by partners or customers when interacting with corporate data or collaborating with employees.
+
+Another concern is IoT devices installed throughout your coporate network and inside customer locations. The traditional perimeter-based security model is no longer enough. **Identity** has become the new security parameter that
