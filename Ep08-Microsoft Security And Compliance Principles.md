@@ -33,6 +33,6 @@ Here are the six privacy principles Microsoft follows:
 <img width="858" height="397" alt="image" src="https://github.com/user-attachments/assets/20be75e5-8c4f-4dfd-a7c8-319d426eea2b" />
 
 
-You can access the **Service Trust Portal** by ging to servicetrust.microsoft.com
+You can access the **Service Trust Portal** by going to **servicetrust.microsoft.com**
 
 
