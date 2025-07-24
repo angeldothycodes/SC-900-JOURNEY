@@ -1,4 +1,4 @@
-**Azure AD** manages different types of users, service principal, manage identities, and devices.
+**Azure AD** manages different types of users, service principal, managed identities, and devices.
 
 
 <img width="887" height="461" alt="image" src="https://github.com/user-attachments/assets/b5f6d219-d6db-4d13-867c-541972ac9038" />
@@ -22,3 +22,16 @@ The service principal defines what the app can do in the tenant such as who can 
 
 ## Managed Identity
 
+A managed identity is an identity in Azure Active Directory that is automatically managed by Azure. Managed identities are typically used to manage the credentials for authenticating a cloud applicaion with an Azure service. 
+**What are the benefits to using managed identity?** 
+- Application developers can authenticate to services that support managed identity or Azure resources
+
+- Any Azure service that supports Azure AD authentication can use managed identities to authenticate to another Azure service. For example, accessing your Azure key vault
+
+- Managed identities can be used without any additional cost as well.
+
+
+##### There are two types of managed identites:
+> **System assigned**. Some Azure services allows you to enable a managed identity directly on a service instance. When you enable a system assigned managed identity, an identity is created in Azure Active Directory that is tied to the lifecycle of the service instance. When the resource is deleted, Azure automatically deletes the identity for you. By design, only that Azure resource can use this identity to request token from Azure AD
+
+> **User assigned**. You may also create a managed identity as a standalone Azure resource. A user assigned managed identity is assigned to one or more instances of an Azure service. You can create user as signed managed identity and assign it to one or more instances of an Azure service. In the case of user assigned managed identities, the identity is managed separately from the resources that uses it.
