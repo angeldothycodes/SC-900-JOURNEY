@@ -9,3 +9,9 @@ A conditional access policy analyzes signals including, users, devices, location
 
 
 A conditional access policy might state that if a user belongs to a certain group, then they are required to provide MFA to sign in to an application.
+
+
+
+Conditional access policies can be targeted to members of specific groups or geusts. For example, you can create a policy to exclude all guest accounts from accessing sensitive resources.
+
+**Conditional access is a feature of paid Azure Active Directory edition**
