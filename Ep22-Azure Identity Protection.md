@@ -15,6 +15,33 @@ These signals are also fed to security information and even management tools as 
 
 Identity protection categorizes risk into three tiers: **low**, **medium**, and **high**. Additionally, it can calculate the sign-in risk and user identity risk as well.
 
-**What is sign-in risk?**
+**WHAT IS SIGN-IN RISK?**
 
 **Sign-in risk** is the probability that the sign-in wasn't performed by the user.
+
+**Sign-in** risk policy uses two types of signals to calculate the risk. A typical travel and anonymous IP address. A typical travel uses sign-in information from a typical location based on user's recent sign-in. Anonymous IP address uses sign-in information from anonymous IP addresses, for example TOR browser or enormousized VPNs, etc.
+
+
+**WHAT IS USER-RISK?**
+**User-risk** is a probability that a user identity has been compromised and this uses signals like unfamiliar sign-in properties, malware linked IP address, leaked credentials, password spray, Azure AD threat intelligence, etc. These risk signals can trigger actions such as requiring the user to provide additional multi-factor authentication, reset the password, or block access until an administrator take actions.
+
+## Different types of reports available with Azure AD identity protection
+
+**It gives reports such as:**
+
+> Risky users
+
+> Risky sign-ins
+
+> Risky detection
+
+
+Investigation of events is a key to understanding and identifying any weak points in your security strategy. After completing an investigation, admins will want to take action to remediate the risk or unblock users. Organizations also have the option to enable automated remediation using the risk policies.
+
+Microsoft recommends choosing events as soon as possible because time matters when working with risk. 
+
+**Identity protection is a feature of Azure AD premium.**
+
+After completing an investigation, admins will want to take action to remediate the risk or unblock users. Organizations also have the option to enable automated remediation using their risk policies.
+
+Microsoft recommends closing events as soon as possible because time matters when working with risk.
