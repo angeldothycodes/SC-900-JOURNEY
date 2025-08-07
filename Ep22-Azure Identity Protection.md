@@ -17,4 +17,4 @@ Identity protection categorizes risk into three tiers: **low**, **medium**, and 
 
 **What is sign-in risk?**
 
-**Sign-in risk** is the probability that the sign-in wasn't performed by the 
+**Sign-in risk** is the probability that the sign-in wasn't performed by the user.
