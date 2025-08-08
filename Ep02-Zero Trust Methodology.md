@@ -27,7 +27,7 @@
  
 What does it mean to **verify explicitly**? You should always authenticate and authorize based on the available data points including user identity, location, device, security or workload, data classification and any other anomalies.
 
-The second principle is **least privileged access**. This means that you should limit user access with just enough time and acess which is known as **JEA** or **JIT**. Other ways you can limit the privileged access is by implementing risk-based adapative policies and data protection to protect both data and productivity.
+The second principle is **least privileged access**. This means that you should limit user access with just enough time and acess which is known as **JET** or **JEA**. Other ways you can limit the privileged access is by implementing risk-based adapative policies and data protection to protect both data and productivity.
 
 The final guiding principle is **assume breach** all the time. You should segment access by network, user, devices, and application. We should use encryption to protect data and use analytics to gain visbility and detect threats and improve your security posture.
 
