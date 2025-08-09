@@ -42,3 +42,10 @@ The basic tier is automatically enabled for every property in Azure at no additi
 Always-on traffic monitoring and real-time mitigation of common network level attacks provide the same defenses that Microsoft online services use.
 
 The standard tier provides extra mitigation capabilities that are tied specifically for Microsoft Azure virtual network resources. DDoS protection standard is simple to enable and requires no application changes. The protection policies are tuned through dedicated traffic monitoring and machine learning algorithms. Policies are applied to public IP addresses which are associated with resources deployed in virtual networks such as Azure Load Balancer and Application Gateway.
+
+
+Use Azure DDoS to enable you to protect your devices and application by analyzing traffic across your network and taking appropriate action on suspicious traffic.
+
+**DDoS protection** is enabled at virtual network level. All protected resource types within Azure Virtual Network will be automatically protected when DDoS protection is enabled on the Azure Virtual Network. 
+
+When application gateway with WAF is deployed in your DDoS protected VNet, there are no additional charges for WAF. You pay for application gateway at the lowest non-VAT rate
