@@ -28,3 +28,17 @@ Protocol attacks render a target inaccessible by exhausting server resources wit
 # Azure DDoS Protection
 
 **Azure DDoS Protection service** is designed to help protect your application and servers by analyzing network traffic and discarding anything that looks like a DDoS attack.
+
+**Azure DDoS Protection** identifies the attacker's attempt to overwhelm the network. It blocks the traffic from the attacker and ensuring the traffic never reaches the Azure resources. Legitimate traffic still flows to Azure without any ibterruption of service. 
+Azure DDoS protection uses the scale and elasticity of Microosft Global Network to bring DDoS mitigation capability to every Azure region.  During a DDoS attack, Azure can scale your computing needs to meet the demand.
+DDoS protection can manage your cloud consumption by ensuring that your network load only reflects actual customer usage.
+
+
+Azure DDoS comes in two tiers, **Basic** and **Standard**:
+
+<img width="591" height="250" alt="image" src="https://github.com/user-attachments/assets/fe458e28-3207-4845-9f3b-1f56b7b80891" />
+
+The basic tier is automatically enabled for every property in Azure at no additional cost. 
+Always-on traffic monitoring and real-time mitigation of common network level attacks provide the same defenses that Microsoft online services use.
+
+The standard tier provides extra mitigation capabilities that are tied specifically for Microsoft Azure virtual network resources. DDoS protection standard is simple to enable and requires no application changes. The protection policies are tuned through dedicated traffic monitoring and machine learning algorithms. Policies are applied to public IP addresses which are associated with resources deployed in virtual networks such as Azure Load Balancer and Application Gateway.
