@@ -42,3 +42,19 @@ You can use your key vault to store securely and tightly control access to token
 
 **2. Key management**
 
+Using Key Vault as a key management solution makes it easier to create and control the encryption keys used to encrypt your data
+
+**3. Certificate management**
+
+Key Vault lets you provision, manage, and deploy your public and private SSL and TLS certificate for Azure and internally connected resources more easily 
+
+**4. Store secrets backed by HW or SW**
+
+The use of Hardware Security Modules (HSMs). The secrets and keys can be protected either by software or by FIBS 140-2 level 2 validated HSMs
+
+
+=======================
+**Azure Key Vault** enforces transport layer security which is known as TLS protocol to protect data when it's travelling between Azure Key Vault and clients. Clients negotiate a TLS connection with Azure Key Vault.
+
+![Uploading image.png…]()
+
