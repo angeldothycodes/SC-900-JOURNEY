@@ -1,0 +1,1 @@
+Let's assume you have setup multiple virtual network that uses a combination of NSGs and Azure Firewall to protect and filter access to assests and resources including Azure Virtual Machines. Now, you are protected from external threats but need to allow your developers and data scientists who are working remotely
