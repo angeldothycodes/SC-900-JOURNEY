@@ -49,5 +49,7 @@ WAF can be deployed to Azure application gateway, Azure Front Door, and Azure co
 You can use Azure Web application Firewall to achieve centralized protection for your web application from common exploits and vulnerabilities.
 
 
+<img width="864" height="464" alt="image" src="https://github.com/user-attachments/assets/461ac97d-fa90-4fa5-a75f-65fe4634e8cd" />
+
 
 **Azure Firewall Premium** is a next generation firewall with capabilities that are required for highly sensitive and regulated environments. These capabilities include TLS injection, IDPS, URL Filtering, and Web categories.
