@@ -56,5 +56,6 @@ The use of Hardware Security Modules (HSMs). The secrets and keys can be protect
 =======================
 **Azure Key Vault** enforces transport layer security which is known as TLS protocol to protect data when it's travelling between Azure Key Vault and clients. Clients negotiate a TLS connection with Azure Key Vault.
 
-![Uploading image.png…]()
+<img width="856" height="427" alt="image" src="https://github.com/user-attachments/assets/06ed81b5-89b9-457e-879c-4f4feed27d68" />
+
 
