@@ -41,9 +41,13 @@ Multiple public IP addresses up to 250 can be associated with your firewall
 Integration with Azure monitor enable you to collecting, analyzing, and acting on telemetry from Azure Firewall logs
 
 
-## Web application Firewall (wAF)
+## Web application Firewall (WAF)
 
 Web application firewall provides centralized protection of your web application from common exploits and vulnerabilities. A centralized WAF helps make security management simpler and improves the response time to your security threat and allows patching a known vulnerability in one place instead of securing a web application.
 A web application firewall also gives application administrators better assurance of protection against threats and intrusions. 
 WAF can be deployed to Azure application gateway, Azure Front Door, and Azure content Delivery Network. 
 You can use Azure Web application Firewall to achieve centralized protection for your web application from common exploits and vulnerabilities.
+
+
+
+**Azure Firewall Premium** is a next generation firewall with capabilities that are required for highly sensitive and regulated environments. These capabilities include TLS injection, IDPS, URL Filtering, and Web categories.
