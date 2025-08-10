@@ -32,6 +32,8 @@ So you can apply guardrails ato audit and enforce the organization standard and 
 
 This is used alongside other specific applications
 
+<img width="886" height="483" alt="image" src="https://github.com/user-attachments/assets/82c71c58-5d4f-4063-88f6-1c531db2c90c" />
+
 
 The main goal of cloud security team working on posture management is continuously report on and improve the organization security posture by focusing on disrupting a potential attacker's return on investment .
 
@@ -54,3 +56,4 @@ The function of CSM in your organization might be spread across multiple teams o
 
 
 
+Use CSPM to improve your cloud security management by assessing the environment and automatically alerting security staff for vulnerabilities.
