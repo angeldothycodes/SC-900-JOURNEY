@@ -43,5 +43,7 @@ Integration with Azure monitor enable you to collecting, analyzing, and acting o
 
 ## Web application Firewall (wAF)
 
-Web application firewall provides 
-
+Web application firewall provides centralized protection of your web application from common exploits and vulnerabilities. A centralized WAF helps make security management simpler and improves the response time to your security threat and allows patching a known vulnerability in one place instead of securing a web application.
+A web application firewall also gives application administrators better assurance of protection against threats and intrusions. 
+WAF can be deployed to Azure application gateway, Azure Front Door, and Azure content Delivery Network. 
+You can use Azure Web application Firewall to achieve centralized protection for your web application from common exploits and vulnerabilities.
