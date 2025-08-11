@@ -11,4 +11,11 @@ The secure score is shown in portal page as a percentage value. The underlying v
 Every control in the recommendations list shows the potential secure score increase if you address the underlying problem. To get every possible security control point, all your resources must follow each security recommendation within the security control.
 
 For example, security center has multiple recommendations for how to secure your management ports, you must remediate them all to make a difference in your security score.
-For example, security score control called "Apply System Ppdates"
+For example, security score control called "Apply System Updates" has a maximum score of 6 points
+
+
+**Potential increase**: is the remaining points available to you within the control
+
+**Current Score**: it determines each control contributes to the total score and the maximum number of points you can gain by completing all recommendation within the control
+
+**Maximum score**: indicates its relative significance
