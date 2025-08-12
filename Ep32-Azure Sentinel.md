@@ -32,3 +32,29 @@ It provides a single solution for alert detection, threat visibility, proactive 
 Azure Sentinel collects data at cloud scale across all users' devices, applications, and infrastructure both on-premises and in multiple clouds.
 
 You can use Azure Sentinel to detect previously uncovered threats and minimize false positives using analytics and unparalleled threat intelligence. Azure Sentinel can investigate threats with AI and hunt suspicious activities at scale. Tapping into decades of cybersecurity work at Microsoft, Azure Sentinel can also be used to respond to incidents rapidly with built-in orchestration and automation of common security tasks.
+
+
+## Integrated Threat protection
+
+<img width="902" height="432" alt="image" src="https://github.com/user-attachments/assets/a895cfcc-7fe9-41d2-93fc-991e2ff8613b" />
+
+
+Threat protection is a continually evolving battlefront. Cybercriminals look for any vulnerability they can exploit to steal, damage, or export company data, assets, and resources. Microsoft provides a suite of tools that give extended detection and response (XDR) through Microsoft365 defender and azure defender. Both tools integrate smoothly with Android sentinel to provide a complete and thorough threat protection capability for your organization
+
+
+
+## Understand Sentinel Costs
+
+Azure Sentinel provides intelligent security analytics across your enterprise. The data for this analysis is stored in the Azure Monitor log analytics workspace. Billing is based on volume of data ingested for analysis in Azure Sentinel and stored in the Azure Monitor logs analytics workspace.
+
+**There are two ways to pay for Azure internal service:**
+
+**1. Capacity Reservations**
+
+- With capacity reservations, you will be built a fixed fee based on the selected tier enabling a predictable total cost for azure sentinel
+
+
+**2. Pay-As-You-Go**
+- With pay-as-you-go pricing, you will be built per gigabyte for the volume of data ingested for analysis in Azure internal and stored in the Azure monitor log analytics workspace.
+
+
