@@ -34,6 +34,11 @@ You can go to this website to access your intune console.
 
 **1. Manage Devices**
 
-The endpoint security node includes all devices view where you will be able to list all the devices for your Azure AD
+The endpoint security node includes all devices view where you will be able to list all the devices for your Azure AD that are available in Microsoft Endpoint Manager
+
+
+**2. Manage security baselines**
+
+Intune includes security baselines for 
 
 
