@@ -27,3 +27,14 @@ Secure score can help your organziation report on the current state of their sec
 
 # Security Reports and Dashboard
 
+Mcirosft Security Center includes a report section that shows various cards covering different areas. Security analyst and security administrator can track the card as part of their day-to-day operations. 
+
+<img width="628" height="357" alt="image" src="https://github.com/user-attachments/assets/ceb6ce64-3e7d-4a21-b1fb-862acf959fae" />
+
+On drill down, cards provide detailed reports and in some cases, management options.
+
+By default, the cards are grouped by identities, data, devices, and apps.
+
+Use the Report section to view security trends across your organization. And track the protection of your organization's devices, apps, identities, and data.
+
+
