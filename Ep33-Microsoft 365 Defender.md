@@ -30,3 +30,13 @@ This is a comprehensive cross-SaaS solution bringing deep visibility, strong dat
 ## Microsoft Defender for Office 365 ( Email/Collaboration )
 
 This will safeguard your organization against malicious threat posed by email messages, links or URLS, and collaboration tools
+
+
+# Microsoft Defender for Identity
+
+<img width="864" height="413" alt="image" src="https://github.com/user-attachments/assets/bfab2837-6897-433a-85e1-fd36227a5d86" />
+
+
+1. Monitor and profile user behavior and activities.
+
+   The defender for identity monitors and analyzes user activities and information across your network including permission and group membership, creating
