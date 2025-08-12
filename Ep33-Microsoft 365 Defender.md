@@ -37,6 +37,20 @@ This will safeguard your organization against malicious threat posed by email me
 <img width="864" height="413" alt="image" src="https://github.com/user-attachments/assets/bfab2837-6897-433a-85e1-fd36227a5d86" />
 
 
-1. Monitor and profile user behavior and activities.
+**1. Monitor and profile user behavior and activities.**
 
-   The defender for identity monitors and analyzes user activities and information across your network including permission and group membership, creating
+The defender for identity monitors and analyzes user activities and information across your network including permission and group membership, creating a behavioral baseline for each user. Defender for identity then identifies anomalies with adaptive built-in intelligence
+
+
+**2. Protect user identities and reduce the attack surface**
+
+Defender for identity gives valuable insights on identity configurations and suggested security best practices
+
+
+**3. Identify suspicious activities and advanced attacks across the cyberattack kill-chain**
+Defender for identity identifies reconnaissance, compromised credentials, lateral movements, and domain dominance at the source throughout the entire cyberattack kill-chain
+
+
+**4. Investigate alerts and user activities**
+
+Microosft Defender for security 
