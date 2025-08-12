@@ -53,4 +53,23 @@ Defender for identity identifies reconnaissance, compromised credentials, latera
 
 **4. Investigate alerts and user activities**
 
-Microosft Defender for security 
+Microsoft Defender for Identity protects your organization from compromised identities, advanced threats, and malicious insider actions.
+
+
+
+# Microsoft Defender for Office 365
+
+Defender for Office 365 is formerly known as OFfice 365 Advanced Threat Protection. This safeguards your organziation against malicious threat posed by email messages, links, and collaboration tools including Microsoft Teams, Sharepoint Online, Onedrive for business, and other Office clients.
+
+<img width="890" height="487" alt="image" src="https://github.com/user-attachments/assets/75b4f37d-5dae-447e-ab22-b5493ef11ebf" />
+
+
+# Microsoft Defender for Endpoint
+
+Formerly known as "Microsoft Defender Advanced Threat Protection"
+
+Microsoft Defender for endpoint includes Microsoft Secure Score for devices to help you dynamically assess the security state of your enterprise network, identify unprotected systems, and take recommended actions to improve overall security.
+
+Microsoft Defender for endpoint integrates with various components in the Microsoft Defender suite and other Microsoft solutions
+
+<img width="846" height="473" alt="image" src="https://github.com/user-attachments/assets/5c56ec4a-3d44-44f3-b76b-0d0633da84e0" />
