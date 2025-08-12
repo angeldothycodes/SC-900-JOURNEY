@@ -26,4 +26,14 @@ Users with personal devices might not want their phone to be under full corporat
 You can use configuration manager along with Microsoft Intune. This is known as Microsoft Endpoint Manager and then you can choose be 100% cloud within Intune or be co-managed with configuration manager and intune. With this, you will be able to deploy and authenticate apps on devices both on-premises and mobile
 
 **Portal**: endpoint.microsoft.com
+
 You can go to this website to access your intune console.
+
+
+## Endpoint Security with Intune
+
+**1. Manage Devices**
+
+The endpoint security node includes all devices view where you will be able to list all the devices for your Azure AD
+
+
