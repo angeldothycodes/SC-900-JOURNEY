@@ -21,4 +21,9 @@ For devices that are owned by the businesses, organziations can maintain full co
 Users with personal devices might not want their phone to be under full corporate control. MAM gives adminsitrators the ability to protect corproate data at the application level where users just want to access apps like email or microsoft teams, admins can use application protection polciies without requiring the device to be enrolled in intune. This will support BYOD (Bring Your Own Device) scenarios.
 
 
-You can use configuration manager along with Microsoft
+# Microsoft Endpoint Manager
+
+You can use configuration manager along with Microsoft Intune. This is known as Microsoft Endpoint Manager and then you can choose be 100% cloud within Intune or be co-managed with configuration manager and intune. With this, you will be able to deploy and authenticate apps on devices both on-premises and mobile
+
+**Portal**: endpoint.microsoft.com
+You can go to this website to access your intune console.
