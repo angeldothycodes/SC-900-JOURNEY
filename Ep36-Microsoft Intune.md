@@ -39,6 +39,34 @@ The endpoint security node includes all devices view where you will be able to l
 
 **2. Manage security baselines**
 
-Intune includes security baselines for Windows devices and a growing list of applications including Microsoft Edge, Defender for Endpoint which is known as Microsoft Defender Advanced Threat Protection
+Intune includes security baselines for Windows devices and a growing list of applications including Microsoft Edge, Defender for Endpoint which is known as Microsoft Defender Advanced Threat Protection and more. 
+
+
+**3. Use policies to manage device security**
+
+Each endpoint security policy focuses on aspects of device security like antivirus, disk encryption, firewalls, and area such as endpoint detection and response, and attack surface reduction
+
+
+**4. Use device compliance policy**
+
+To use device compliance policy to establish the conditions by which devices and users are allowed to access the corporate network and company resources. 
+
+
+**5. Configure conditional access**
+
+Intune can also be integrated with Azure Active Directory Conditonal Access policies to enforce compliance policies. Intune passes the result of your device compliance policy to Azure Active Directory which then uses conditional access policies to enforce which devices and apps can access your corporate resources.
+
+
+**6. Integration with Microsoft Defender for Endpoint**
+
+Intune can be integrated with your Microsoft Defender for endpoint. This will give you mobile threat defense solution.
+
+
+**7. Role-based access control with Microsoft Intune**
+
+RBAC helps manage who has access to organizational resources and what do they do with them
+
+
+**Intune also allows people in your organization to use their personal devices for school or work. Intune helps make sure your organziation data stays protected and can isolate it from personal data on personal devices.**
 
 
