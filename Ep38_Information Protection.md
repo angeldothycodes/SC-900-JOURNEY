@@ -50,3 +50,23 @@ Sensitivity labels are publsihed to users or groups through label policies. And 
 <img width="760" height="503" alt="image" src="https://github.com/user-attachments/assets/bd80dfc6-db4a-4cd4-9116-27738c511bcd" />
 
 Another tools that needs to be undertsand is the **Data Loss Prevention or DLP**.
+
+**Data Loss** can harm an organization's customer,s business processes, and the organization itself. Organizations need to prevent data loss by preventing risky behavior and preventing sensitive information from being shared inappropriately.
+
+Admins can use DLP policies available in Microsoft 365 compliance center to help their organization. 
+
+
+
+## Retention policies and labels
+
+
+<img width="869" height="429" alt="image" src="https://github.com/user-attachments/assets/db7a5211-3894-48b9-a479-5b5d5133bac5" />
+
+
+Retention labels and policies help organizations to manage and govern information by ensuring content is kept only for required time and then permanently delete it. Applying retention labels and assigning retention policies help organizations comply proactively with industry regulations and internal policies, reduce risk when there is litigation or a security breach and ensures users work only with content that's current and relevant to them.
+
+
+
+## Records Management
+
+Organizational of all type require a management solution to manage regulatory, legal, and bsuiness critical records across their corporate data. Records management in Microsoft 365 helps an organization look after their legal obligations. It also helps to demonstrate compliance with regulations and increases efficiency with regular disposition of items that are no longer required to be kept and no longer of value or no longer required for bsuiness purposes.
