@@ -39,6 +39,6 @@ The endpoint security node includes all devices view where you will be able to l
 
 **2. Manage security baselines**
 
-Intune includes security baselines for 
+Intune includes security baselines for Windows devices and a growing list of applications including Microsoft Edge, Defender for Endpoint which is known as Microsoft Defender Advanced Threat Protection
 
 
