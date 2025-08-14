@@ -78,11 +78,18 @@ Enabling privileged access management in M365 allows organizations to operate wi
 
 
 
+
 # Customer Lockbox
 
 
 <img width="848" height="447" alt="image" src="https://github.com/user-attachments/assets/f5277a69-8c6c-4ded-8e6e-6c6ce2096eaf" />
 
-Occasionally, an organization might need Mcirosoft engineers help 
+Occasionally, an organization might need Microsoft engineers' help to troubleshoot and fix reported issues. Usually issues are fiexd through extensive telemetry and debugging tools Microsoft has in place for its services. However, some cases require a Microsoft engineer to access the organization's content to determine to root cause and fix the issue.
+
+Customer Lockbox ensures that Microsoft can't access the content to perform a service operations without explicit approval. And the customer lockbox brings the organziation into the approval workflow for request to access their content. Because customer lockbox follows a formal approval for access control, a common question is how this capability relates to privileged access management. 
+
+Customer lockbox allows a level of access control for organizations when Microsoft accesses this data.
+
+Privileged Access Management allows granular access control within an organization or all Microsoft 365 privilege task.
 
 
